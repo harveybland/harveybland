@@ -19,5 +19,3 @@
 #
 
 <details>
- <summary><h3>👨‍💻 Harvey's Coding Journey</h3></summary>
-   I started my coding journey...
